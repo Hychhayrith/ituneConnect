@@ -1,0 +1,25 @@
+{
+  "name": "ituneconnect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hychhayrith/ituneConnect.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hychhayrith/ituneConnect/issues"
+  },
+  "homepage": "https://github.com/Hychhayrith/ituneConnect#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.3",
+    "itunesconnectanalytics": "^0.4.3",
+    "morgan": "^1.9.0"
+  }
+}
