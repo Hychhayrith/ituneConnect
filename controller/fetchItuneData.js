@@ -2,9 +2,9 @@ const itc = require('itunesconnectanalytics');
 const Itunes = itc.Itunes;
 const AnalyticsQuery = itc.AnalyticsQuery;
 
-const username = 'kit@asiato.asia';
-const password = 'kitCambodia2017';
-const appId = "1210617957";
+const username = '************';
+const password = '************';
+const appId = "********";
 
 //************************** */
     //function to use
